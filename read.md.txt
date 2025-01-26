@@ -1,0 +1,11 @@
+# Form Creator Add-On
+
+This Google Sheets add-on automatically creates Google Forms from your sheet. It supports multiple-choice questions and marks correct answers.
+
+## How to Use
+1. Install the add-on from the Google Workspace Marketplace.
+2. Open a Google Sheet with your questions and options.
+3. Run the add-on and follow the prompts.
+
+## License
+This project is open-source and available under the MIT License.
